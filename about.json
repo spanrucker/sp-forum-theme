@@ -16,7 +16,8 @@
       "primary-high": "fe7a15",
       "primary-medium": "fe7a15",
       "primary-low-mid": "fe7a15",
-      "primary-low": "FFC400"
+      "primary-low": "FFC400",
+      "primary-very-low": "FFC400"
 
     }
   }
