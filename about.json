@@ -1,21 +1,10 @@
 {
-  "name": "Simon's Forum theme",
+  "name": "Simon's Theme",
   "about_url": "https://meta.discourse.org/t/sams-personal-minimal-topic-list-design/23552",
   "license_url": "https://github.com/SamSaffron/discourse-simple-theme/blob/master/LICENSE.txt"
-
   "color_schemes": {
-    "SP Colors”: {
+    “My_colors”: {
       "primary": "000000",
-      "secondary": "ffda00",
-      "tertiary": "fd0fa1",
-      "quaternary": "fd0fa1",
-      "header background": "ffda00",
-      "header primary": "000000",
-      "highlight": "FFC400",
-      "danger": "c21c82",
-      "success": "57e18d",
-      "love": "fd0fa1",
-
       "primary-high": "333333",
       "primary-medium": "666666",
       "primary-low-mid": "999999",
