@@ -1,5 +1,8 @@
 {
   "name": "Simon's Forum theme",
+  "about_url": "https://meta.discourse.org/t/sams-personal-minimal-topic-list-design/23552",
+  "license_url": "https://github.com/SamSaffron/discourse-simple-theme/blob/master/LICENSE.txt"
+
   "color_schemes": {
     "SP Colors”: {
       "primary": "000000",
