@@ -5,6 +5,16 @@
   "color_schemes": {
     “My_colors”: {
       "primary": "000000",
+      "secondary": "ffda00",
+      "tertiary": "fd0fa1",
+      "quaternary": "fd0fa1",
+      "header background": "ffda00",
+      "header primary": "000000",
+      "highlight": "FFC400",
+      "danger": "c21c82",
+      "success": "57e18d",
+      "love": "fd0fa1",
+
       "primary-high": "333333",
       "primary-medium": "666666",
       "primary-low-mid": "999999",
