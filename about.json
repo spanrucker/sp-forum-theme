@@ -1,3 +1,8 @@
 {
-  "name": "Simon's Forum Theme"
+  "name": "Simon's Forum Theme",
+  "color_schemes": {
+    "My Colour Scheme": {
+      "primary": "222222",
+    }
+  }
 }
