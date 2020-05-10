@@ -1,9 +1,22 @@
-"color_schemes": {
-    “My_colors”: {
-      "primary": "000000",
-      "primary-high": "000000",
-      "primary-medium": "000000",
-      "primary-low-mid": "000000",
-      "primary-low": “cccccc”
+{
+    "name": "SP Theme",
+    "component": false,
+    "license_url": null,
+    "about_url": null,
+    "authors": null,
+    "theme_version": null,
+    "minimum_discourse_version": null, 
+    "maximum_discourse_version": null,
+    "assets": {
+      "variable-name": "assets/my-asset.jpg"
+    },
+    "color_schemes": {
+      "My Colour Scheme": {
+        "primary": "000000",
+        "primary-high": "333333",
+        "primary-medium": "666666",
+        "primary-low-mid": "999999",
+        "primary-low": “cccccc”
+      }
     }
   }
